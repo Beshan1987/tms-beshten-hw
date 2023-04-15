@@ -1,0 +1,9 @@
+import './15tasks/Task1.js';
+import './15tasks/Task2.js';
+import './15tasks/Task3.js';
+import './15tasks/Task4.js';
+import './15tasks/Task5.js';
+import './15tasks/Task7.js';
+import './15tasks/Task8.js';
+import './15tasks/Task9.js';
+import './15tasks/Task10.js';
